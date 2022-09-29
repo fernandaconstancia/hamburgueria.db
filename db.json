@@ -4,8 +4,197 @@
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
-      "age": 38,
       "id": 1
+    },
+    {
+      "email": "degliersa@gmail.com",
+      "password": "$2a$10$msRS9SiLTL4bOQaoAuB8IeBNf.oZNuT3rLR8ROBPcgtvnUuie.uUe",
+      "name": "Deglier Amorim",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/whopper-thumb.png?mtime=20210916125149&focal=none",
+      "category": "Sanduíches",
+      "name": "KenziOpper",
+      "price": 27.9
+    },
+    {
+      "id": 2,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/CBK-thumb-cupom-m-d.png?mtime=20220825114946&focal=none",
+      "name": "CBKenzie",
+      "category": "Sanduíches",
+      "price": 33.9
+    },
+    {
+      "id": 3,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/BK-Original-cheddar-thumb-cupom-m-d.png?mtime=20220920174715&focal=none",
+      "name": "Original cheddar",
+      "category": "Sanduíches",
+      "price": 31.9
+    },
+    {
+      "id": 4,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/BK-Original-thumb-cupom-m-d.png?mtime=20220706091451&focal=none",
+      "name": "Original Cheese Orion",
+      "category": "Sanduíches",
+      "price": 33.9
+    },
+    {
+      "id": 5,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/Stacker_Duplo_Bacon-thumb-cupom-m-d.png?mtime=20220825142918&focal=none",
+      "name": "Double Kenzie Bacon",
+      "category": "Sanduíches",
+      "price": 30.9
+    },
+    {
+      "id": 6,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/rodeio-duplo-thumb_2021-09-16-135740_wani.png?mtime=20210916135741&focal=none",
+      "name": "Double chicken kenzie ",
+      "category": "Sanduíches",
+      "price": 27.9
+    },
+    {
+      "id": 7,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/cheddar-duplo-thumb.png?mtime=20210916135304&focal=none",
+      "name": "Double cheddar",
+      "category": "Sanduíches",
+      "price": 33.9
+    },
+    {
+      "id": 8,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/Chicken-Crisp-thumb-cupom-m-d.png?mtime=20220825121543&focal=none",
+      "name": "Chicken Crisp",
+      "category": "Sanduíches",
+      "price": 21.9
+    },
+    {
+      "id": 9,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/chicken-duplo-thumb.png?mtime=20210916143308&focal=none",
+      "name": "Original double chicken",
+      "category": "Sanduíches",
+      "price": 30.9
+    },
+    {
+      "id": 10,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/big-king-thumb.png?mtime=20210916134350&focal=none",
+      "name": "Big kenzie burguer",
+      "category": "Sanduíches",
+      "price": 28.9
+    },
+    {
+      "id": 11,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/Mega-Stacker-atomico-3.0-thumb-cupom-m-d_2022-07-21-170135_cnnj.png?mtime=20220721170136&focal=none",
+      "name": "Extreme kenzie bacon",
+      "category": "Sanduíches",
+      "price": 30.9
+    },
+    {
+      "id": 12,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/milanesa2.0-thumb-cupom-m-d_2022-07-22-134930_kudm.png?mtime=20220722134931&focal=none",
+      "name": "Kenzie milanesa",
+      "category": "Sanduíches",
+      "price": 29.9
+    },
+    {
+      "id": 13,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/Batata-Suprema-thumb_2021-09-16-164200_tqnf.png?mtime=20210916164201&focal=none",
+      "name": "Big potato kenzie",
+      "category": "Acompanhamento",
+      "price": 18.9
+    },
+    {
+      "id": 14,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/BK-Chicken-thumb.png?mtime=20210916164625&focal=none",
+      "name": "chickinito",
+      "category": "Sanduíches",
+      "price": 10.9
+    },
+    {
+      "id": 15,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/Natural_One_Laranja_thumb_639x324.png?mtime=20210118103439&focal=none",
+      "name": "Kenzie fresh orange",
+      "category": "Bebida",
+      "price": 13.9
+    },
+    {
+      "id": 16,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/Natural_One_Uva_thumb_639x324.png?mtime=20210119185115&focal=none",
+      "name": "Kenzie fresh grape",
+      "category": "Bebida",
+      "price": 13.9
+    },
+    {
+      "id": 17,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/natural-one-maracuja-thumb_2021-02-24-143713.png?mtime=20210224113714&focal=none",
+      "name": "Kenzie fresh maracuja",
+      "category": "Bebida",
+      "price": 13.9
+    },
+    {
+      "id": 18,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/H2O_limao_thumb_639x324-100k.png?mtime=20201222080044&focal=none",
+      "name": "H2O",
+      "category": "Bebida",
+      "price": 10.9
+    },
+    {
+      "id": 19,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/lipton-lim%C3%A3o-thumb.png?mtime=20210224103526&focal=none",
+      "name": "Ice tea limao",
+      "category": "Bebida",
+      "price": 10.9
+    },
+    {
+      "id": 20,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/Shakes_Festival-4-thumb-cupom-m-d.png?mtime=20220825141054&focal=none",
+      "name": "Kenzie shake oreo",
+      "category": "Sobremesa",
+      "price": 10.9
+    },
+    {
+      "id": 21,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/Shakes_Festival-3-thumb-cupom-m-d.png?mtime=20220825142125&focal=none",
+      "name": "Kenzie shake caramelo",
+      "category": "Sobremesa",
+      "price": 10.9
+    },
+    {
+      "id": 22,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/Shakes_Festival-1-thumb-cupom-m-d.png?mtime=20220825122941&focal=none",
+      "name": "Kenzie shake flocos",
+      "category": "Sobremesa",
+      "price": 10.9
+    },
+    {
+      "id": 23,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/Shakes_Festival-2-thumb-cupom-m-d.png?mtime=20220825140654&focal=none",
+      "name": "Kenzie shake morango",
+      "category": "Sobremesa",
+      "price": 10.9
+    },
+    {
+      "id": 24,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/sobremesa_loud_01-thumb-cupom-m-d.png?mtime=20220727142401&focal=none",
+      "name": "Kenzie shake choco balls",
+      "category": "Sobremesa",
+      "price": 10.9
+    },
+    {
+      "id": 25,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/sobremesa_loud_02-thumb-cupom-m-d.png?mtime=20220727145711&focal=none",
+      "name": "Kenzie shake ice cream",
+      "category": "Sobremesa",
+      "price": 10.9
+    },
+    {
+      "id": 26,
+      "img": "https://d3sn2rlrwxy0ce.cloudfront.net/Casquinha-Doce-de-Leite-thumb.png?mtime=20210916162028&focal=none",
+      "name": "Kenzie ice cream",
+      "category": "Sobremesa",
+      "price": 3.9
     }
   ]
 }
